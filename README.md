@@ -21,7 +21,7 @@ Hello! I’m Anwar Ali, a passionate and dedicated **Frontend Website Developer*
 
 ### 🚀 **Projects**
 #### 🌟 Featured Projects:
-- **[Portfolio Website](https://anwar-portfolio.netlify.app/)** - A stunning portfolio showcasing my skills & projects.
+- **[Portfolio Website](https://anwarali.netlify.app/)** - A stunning portfolio showcasing my skills & projects.
 - **Crypto Price Tracker** - A real-time cryptocurrency tracker using React.js & API integration.
 - **Modern E-commerce Website** - Fully responsive e-commerce UI with product filtering & cart functionality.
 
