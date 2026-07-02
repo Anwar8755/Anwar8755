@@ -33,7 +33,7 @@ Hello! I’m Anwar Ali, a passionate and dedicated **Frontend Website Developer*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar8755&layout=compact&theme=react)](https://github.com/Anwar8755)
 
 ### 📢 **Let's Connect**
-🌐 **Portfolio:** [anwar-portfolio.netlify.app](https://anwar-portfolio.netlify.app)  
+🌐 **Portfolio:** [anwarali.netlify.app/](https://anwarali.netlify.app/)
 💼 **LinkedIn:** [linkedin.com/in/anwar-ali-516b861b7](http://linkedin.com/in/anwar-ali-516b861b7)  
 🐱 **GitHub:** [github.com/Anwar8755](https://github.com/Anwar8755)  
 
