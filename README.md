@@ -17,9 +17,9 @@ React.js · JavaScript (ES6+) · Node.js · Express.js · MongoDB · REST APIs �
   → anwarali.netlify.app
 - TECHTOM — e-commerce platform for a scientific equipment company, built
   the whole frontend + login/cart/checkout/payments
-  → techtom.in
+  → [techtom.in]((https://techtom.in/))
 - VideoEarningHub — MERN platform with user + admin dashboards, auth and
   payment integration, built solo
-  → videoearninghub.com
+  → [videoearninghub.com]((https://videoearninghub.com/))
 
 Reach me: anwarali812632@gmail.com
