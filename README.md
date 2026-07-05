@@ -20,6 +20,6 @@ React.js · JavaScript (ES6+) · Node.js · Express.js · MongoDB · REST APIs �
   → [[techtom.in]([url](https://techtom.in/))]
 - VideoEarningHub — MERN platform with user + admin dashboards, auth and
   payment integration, built solo
-  → [videoearninghub.com]((https://videoearninghub.com/))
+  → [[videoearninghub.com]([url](https://videoearninghub.com/))]
 
 Reach me: anwarali812632@gmail.com
